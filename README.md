@@ -1,7 +1,7 @@
 # React
-<br>
 
-> [zerodrink-react-sojustudy.netlify.app](https://zerodrink-react-sojustudy.netlify.app/)
+
+[제로음료수](https://zerodrink-react.vercel.app/)
 
 <br>
 
@@ -9,9 +9,9 @@
 - Javascript
 - JSX
 - CSS
-- Netlify
+- Vercel
 
-<br>
+<br><br>
 
 ![addItem_react](addItem_react.gif)
 
